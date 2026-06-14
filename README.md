@@ -7,9 +7,6 @@ A modern, animated portfolio website inspired by the award-winning Cynthia Ugwu 
 
 🌐 Live Website: https://arjun-codess.github.io/cynthia_portfolio/
 
-## 📸 Preview
-
-![Portfolio Preview](./preview.png)
 
 ## ✨ Features
 
